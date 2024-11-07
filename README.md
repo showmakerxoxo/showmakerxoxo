@@ -6,6 +6,15 @@
 </p>
 
 
+## Hi, I'm showmakerxoxo, a Developer 🚀.
+
+- 👨🏽‍💻 I’m currently working on c++ development engineer
+- 🌱 I’m currently learning c++
+- 🎆 I'm interested in strange things
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: 
+- 📫 How to reach me: 
+
 <!--   my-skils -->
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
