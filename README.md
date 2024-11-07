@@ -29,7 +29,6 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/showmakerxoxo)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)]()
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)]()
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 
 ## Hi, I'm showmakerxoxo, a Developer 🚀.
