@@ -49,7 +49,8 @@
 <!--   my-skils -->
 | Property                                        | Data                                                                                                           |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Qt](https://img.shields.io/badge/-Qt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;|                                                                                      
+| **Language / IDE**                              | ![Qt](https://img.shields.io/badge/Qt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;|
+| **OS**                                          | [![CentOS](https://img.shields.io/badge/CentOS-gray?style=flat&logo=CentOS&logoColor=blue)](https://github.com/showmakerxoxo/showmakerxoxo)|
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
