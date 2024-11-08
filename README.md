@@ -47,7 +47,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![activity-graph](https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake.svg)
+![activity-graph](https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake-dark.svg)
 
 <!--   my-icons -->
 <p align="center">
