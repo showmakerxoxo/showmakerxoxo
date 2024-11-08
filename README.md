@@ -27,9 +27,15 @@
     <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/showmakerxoxo)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)]()
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=pink)](https://github.com/showmakerxoxo)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=gray)]()
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
+![Status](https://img.shields.io/badge/status-learning-purple.svg)
+
+<!--   my-icons -->
+<!--p align="center">
+    <a href="https://github.com/showmakerxoxo/showmakerxoxo"><img src="https://img.shields.io/badge/status-learning-brightgreen.svg"></a> 
+</p-->
 
 ## Hi, I'm showmakerxoxo, a Developer 🚀.
 
@@ -38,20 +44,16 @@
 - 🎆 I'm interested in strange things
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: 
-- 📫 How to reach me: 
+- 📫 How to reach me:
 
 <!--   my-skils -->
-| Property                                        | Data                                                                                                                                                              |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Qt](https://img.shields.io/badge/-Qt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;                                                                                          
+| Property                                        | Data                                                                                                           |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| **Language / IDE**                              | ![Qt](https://img.shields.io/badge/-Qt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;|                                                                                      
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![activity-graph](https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake-dark.svg)
 
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/showmakerxoxo/showmakerxoxo"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a> 
-</p>
 
 ![](assets/Bottom_down.svg)
