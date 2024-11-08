@@ -44,7 +44,7 @@
 - 🎆 I'm interested in strange things
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: 
-- 📫 How to reach me:
+- 📫 How to reach me: reall_ss@163.com
 
 <!--   my-skils -->
 | Property                                        | Data                                                                                                           |
