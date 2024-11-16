@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=pink)](https://github.com/showmakerxoxo)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=gray)]()
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
-![Status](https://img.shields.io/badge/status-learning-purple.svg)
+![Status](https://img.shields.io/badge/status-learning-purple)
 
 <!--   my-icons -->
 <!--p align="center">
