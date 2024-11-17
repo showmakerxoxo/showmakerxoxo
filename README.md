@@ -74,5 +74,4 @@ Here are some ideas to get you started:
 ### 📈 GitHub Activity Graph:
 ![activity-graph](https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake-dark.svg)
 
-
 ![](./src/Bottom_down.svg)
