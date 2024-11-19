@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ![Status](https://img.shields.io/badge/status-learning-purple)
 
 <!--   my-icons -->
+
 <!--p align="center">
     <a href="https://github.com/showmakerxoxo/showmakerxoxo"><img src="https://img.shields.io/badge/status-learning-brightgreen.svg"></a> 
 </p-->
