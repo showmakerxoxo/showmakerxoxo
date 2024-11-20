@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/showmakerxoxo/showmakerxoxo"><img src="https://img.shields.io/badge/status-learning-brightgreen.svg"></a> 
 </p-->
 
-## Hi, I'm showmakerxoxo 🚀.
+## Hi, I'm showmakerxoxo 🚀
 
 - 👨🏽‍💻 I’m currently working on c++ development engineer
 - 🌱 I’m currently learning c++
