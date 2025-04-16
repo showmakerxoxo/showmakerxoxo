@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 <!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
-![activity-graph](https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake-dark.svg)
+![activity-graph](https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake.svg)
 
 ![](./src/Bottom_down.svg)
