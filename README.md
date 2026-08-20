@@ -52,7 +52,7 @@
 <a href="https://github.com/showmakerxoxo"><img src="./src/top-langs.svg" alt="Top Languages" /></a>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=showmakerxoxo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=showmakerxoxo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </a>
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
