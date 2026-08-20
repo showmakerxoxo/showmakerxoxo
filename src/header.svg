@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <defs>
+    <!-- brand gradient: purple -> blue -->
+    <linearGradient id="brand" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B993D6"/>
+      <stop offset="100%" stop-color="#8CA6DB"/>
+    </linearGradient>
+    <!-- moving sheen band sweeping across the name -->
+    <linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="-320" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="320 0; 1520 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-weight="700" text-anchor="middle">
+    <!-- name + blinking cursor -->
+    <text x="600" y="165" font-size="78">
+      <tspan fill="url(#brand)">showmakerxoxo</tspan>
+      <tspan fill="#8CA6DB">|<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></tspan>
+    </text>
+    <!-- sheen overlay (same text, same position) -->
+    <text x="600" y="165" font-size="78" fill="url(#sheen)">showmakerxoxo|</text>
+  </g>
+
+  <!-- subtitle -->
+  <text x="600" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="500" letter-spacing="6" fill="#8B949E">C++ DEVELOPMENT ENGINEER</text>
+
+  <!-- underline bar with soft pulse -->
+  <rect x="450" y="282" width="300" height="4" rx="2" fill="url(#brand)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

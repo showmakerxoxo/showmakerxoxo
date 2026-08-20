@@ -1,78 +1,80 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**showmakerxoxo/showmakerxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===================== HEADER ===================== -->
 
-Here are some ideas to get you started:
+<a href="https://github.com/showmakerxoxo">
+  <img src="./src/header.svg" alt="showmakerxoxo — C++ Development Engineer" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B993D6,8CA6DB&center=true&vCenter=true&width=700&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;A+C%2B%2B+Development+Engineer+%F0%9F%92%BB;Currently+learning+modern+C%2B%2B+%F0%9F%8C%B1;Interested+in+strange+things+%F0%9F%8E%86" alt="Typing SVG" />
+</a>
 
-![](./src/Bottom_up.svg)
+<br/>
 
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/mustacheparrot.gif" width="30" height="30"/>
+<!-- Badges -->
+<a href="https://github.com/showmakerxoxo"><img src="https://komarev.com/ghpvc/?username=showmakerxoxo&style=for-the-badge&color=B993D6&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/showmakerxoxo"><img src="https://img.shields.io/badge/GitHub-showmakerxoxo-8CA6DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:reall_ss@163.com"><img src="https://img.shields.io/badge/Email-reall__ss%40163.com-B993D6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<!-- ===================== ABOUT ===================== -->
+
+<img src="./src/divider.svg" alt="divider" />
+
+## 💻 About Me
+
+- 🔭 Currently working as a **C++ Development Engineer**
+- 🌱 Currently learning **Modern C++**
+- 🎆 Interested in **strange things**
+- 💬 Ask me about anything — I'm happy to help
+- 📫 How to reach me: **reall_ss@163.com**
+
+<!-- ===================== TECH STACK ===================== -->
+
+<img src="./src/divider.svg" alt="divider" />
+
+## 🛠️ Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c,qt,bash,cmake,linux,apple,git,github,vscode&perline=5" alt="Tech Stack" />
+</a>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<img src="./src/divider.svg" alt="divider" />
+
+## 📊 GitHub Stats
+
+<!-- These cards are self-hosted: generated daily by .github/workflows/stats.yml -->
+
+<a href="https://github.com/showmakerxoxo"><img src="./src/stats.svg" alt="GitHub Stats" /></a>
+<a href="https://github.com/showmakerxoxo"><img src="./src/top-langs.svg" alt="Top Languages" /></a>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=showmakerxoxo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</a>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+<img src="./src/divider.svg" alt="divider" />
+
+## 🐍 Contribution Snake
+
+<!-- Light / dark adaptive: both SVGs are generated by .github/workflows/snake.yml -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- ===================== FOOTER ===================== -->
+
+<br/>
+
+---
+
+<sub>Thanks for visiting! Give it a ⭐ if you like it · © 2026 showmakerxoxo · [MIT](LICENSE)</sub>
+
 </div>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=pink)](https://github.com/showmakerxoxo)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=gray)]()
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
-![Status](https://img.shields.io/badge/status-learning-purple)
-
-<!--   my-icons -->
-
-<!--p align="center">
-    <a href="https://github.com/showmakerxoxo/showmakerxoxo"><img src="https://img.shields.io/badge/status-learning-brightgreen.svg"></a> 
-</p-->
-
-## Hi, I'm showmakerxoxo 🚀
-
-- 👨🏽‍💻 I’m currently working on c++ development engineer
-- 🌱 I’m currently learning c++
-- 🎆 I'm interested in strange things
-- 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: 
-- 📫 How to reach me: reall_ss@163.com
-
-<!--   my-skils -->
-| Property                                        | Data                                                                                                           |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Qt](https://img.shields.io/badge/Qt-004400?style=flat&logo=Qt)&nbsp; ![C++](https://img.shields.io/badge/C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;|
-| **OS**                                          | [![CentOS](https://img.shields.io/badge/CentOS-gray?style=flat&logo=CentOS&logoColor=blue)](https://github.com/showmakerxoxo/showmakerxoxo) ![MacOS](https://img.shields.io/badge/MacOS-gray?style=flat&logo=apple)|
-
-<!--   GitHub stats graph -->
-
-### 📈 GitHub Activity Graph:
-![activity-graph](https://raw.githubusercontent.com/showmakerxoxo/showmakerxoxo/output/github-contribution-grid-snake.svg)
-
-![](./src/Bottom_down.svg)
